@@ -9,7 +9,7 @@ public class Players {
     String[] playlist = new String[]{"The best song", "Good song", "Super Song"};
 
     public Players() {
-        }
+    }
 
     public void playSong() {
 

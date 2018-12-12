@@ -1,6 +1,6 @@
 package com.company;
 
-public class PlayerSecond extends Players{
+public class PlayerSecond extends Players {
 
     private final double cost;
 
